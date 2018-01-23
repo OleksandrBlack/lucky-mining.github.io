@@ -33,7 +33,7 @@
 	box-shadow: none;
 }
 ::-webkit-scrollbar-thumb:hover {
-	background-color: #404040;
+	background-color: #243b6b;
 }
 
 /******************************************************************************
@@ -78,7 +78,7 @@ a {
 a:hover,
 a:focus {
 	text-decoration: none;
-	color: #404040;
+	color: #243b6b;
     outline: none !important; 
 }
 
@@ -92,7 +92,7 @@ a:focus {
 	background-color: #18233a;
 }
 .bg-gray25 {
-	background-color: #404040;
+	background-color: #243b6b;
 }
 .bg-gray50 {
 	background-color: #7f7f7f;
@@ -111,7 +111,7 @@ a:focus {
 	color: #18233a;
 }
 .tx-gray25 {
-	color: #404040;
+	color: #243b6b;
 }
 .tx-gray50 {
 	color: #7f7f7f;
@@ -664,7 +664,7 @@ html {
 	font-size: 70%;
 	font-weight: 400;
 	display: block;
-	color: #404040;
+	color: #243b6b;
 }
 
 /******************************************************************************
@@ -830,7 +830,7 @@ button:focus {
 }
 #scroll-top:hover {
 	opacity: 1;
-	background-color: #404040;
+	background-color: #243b6b;
 }
 
 /******************************************************************************
