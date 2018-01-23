@@ -29,7 +29,7 @@
 ::-webkit-scrollbar-thumb {
 	border: 0;
 	border-radius: 0;
-	background-color: #2d2d2d;
+	background-color: #18233a;
 	box-shadow: none;
 }
 ::-webkit-scrollbar-thumb:hover {
@@ -41,17 +41,17 @@
 *******************************************************************************/
 ::selection {
 	color: #fff;
-	background-color: #2d2d2d;
+	background-color: #18233a;
 	text-shadow: none;
 }
 ::-webkit-selection {
 	color: #fff;
-	background-color: #2d2d2d;
+	background-color: #18233a;
 	text-shadow: none;
 }
 ::-moz-selection {
 	color: #fff;
-	background-color: #2d2d2d;
+	background-color: #18233a;
 	text-shadow: none;
 }
 
