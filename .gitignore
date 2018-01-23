@@ -1,3 +1,10 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+ann-czech/
+ann-french/
+ann-german/
+ann-indonesian/
+ann-italian/
+ann-russian/
+ann-turkish/
